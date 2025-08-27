@@ -13,7 +13,7 @@ function Home() {
         style={{ minHeight: "100vh" }}
       >
         <Container>
-          <h1 className="display-3 fw-bold">Colectivo Techno</h1>
+          <h1 className="display-3 fw-bold">MuyKietos</h1>
           <p className="lead">Ritmo, energía y comunidad en cada fiesta 🎶</p>
           <Link to="/events">
             <Button variant="outline-light" size="lg">

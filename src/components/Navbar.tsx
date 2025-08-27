@@ -23,7 +23,7 @@ function NavbarCustom() {
     >
       <Container>
         <Navbar.Brand as={Link} to="/" className="fw-bold text-uppercase">
-          🎶 Colectivo Techno
+          🎶 MuyKietos
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="main-navbar" />
         <Navbar.Collapse id="main-navbar">
